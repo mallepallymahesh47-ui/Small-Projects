@@ -1,0 +1,10 @@
+ ------Student Report------
+ Name : Ravi
+ Marks Scored : 393
+ Average Markes : 78.6
+ Ravi Secured a Grade of B
+ ------Student Report------
+ Name : Mahi
+ Marks Scored : 486
+ Average Markes : 97.2
+ Mahi Secured a Grade of A+
