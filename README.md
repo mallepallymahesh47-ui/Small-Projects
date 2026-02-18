@@ -1,4 +1,4 @@
-# Small Python Projects Repository
+# Small Python Beginner Projects Repository
 
 This repository contains a collection of **small beginner-friendly Python projects**.  
 Each project focuses on improving core programming concepts such as logic building, conditionals, loops, functions, and user interaction.
